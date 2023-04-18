@@ -1,16 +1,22 @@
-### Hi there 👋
-
-<!--
-**Vivinevie/Vivinevie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # Hi There, I'm vivin
+ 
+ ## About me:
+ - Nama             : Vivin Evie Mema
+ - Alamat           : Kampung Simueng
+ - Agama            : Kristen Protestan
+ - Tempat,Tgl Lahir : Simueng,27 Maret 2002
+ - Jenis Kelamin    : Perempuan
+ - Status           : Kawin
+ - Email            : vivinmema4@gmail.com
+ - Nomor Hp         : 08225910####
+ 
+ 
+ ## Education:
+ 
+ ### 1. [Politeknik Negeri Nusa Utara] | Sistem Informasi | Manganitu '2021-Sekarang'
+ 
+ ### 2. [SMA Negeri 1 Tahuna] | Bahasa | Tahuna '2017-2020'
+ 
+ 
+ <br />
+ <br />
